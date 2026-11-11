@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CL-101",
+    "name": "Schraeder Family Medicine",
+    "specialty": "Primary Care",
+    "days": "Mon–Fri",
+    "appointments_per_week": 120
+  },
+  {
+    "id": "CL-102",
+    "name": "Heart & Vascular Office",
+    "specialty": "Cardiology",
+    "days": "Mon–Thu",
+    "appointments_per_week": 85
+  },
+  {
+    "id": "CL-103",
+    "name": "Women's Health Office",
+    "specialty": "Women’s Health",
+    "days": "Mon–Fri",
+    "appointments_per_week": 76
+  },
+  {
+    "id": "CL-104",
+    "name": "Pulmonary Care Office",
+    "specialty": "Pulmonology",
+    "days": "Tue–Fri",
+    "appointments_per_week": 62
+  },
+  {
+    "id": "CL-105",
+    "name": "Research Coordination Office",
+    "specialty": "Clinical Research",
+    "days": "Mon–Fri",
+    "appointments_per_week": 48
+  },
+  {
+    "id": "CL-106",
+    "name": "Clinical Pharmacy Office",
+    "specialty": "Medication Management",
+    "days": "Mon–Thu",
+    "appointments_per_week": 54
+  }
+]

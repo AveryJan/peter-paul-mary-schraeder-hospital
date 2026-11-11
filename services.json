@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Emergency & Acute Care",
+    "icon": "✚",
+    "detail": "Emergency operations and treatment pathway analytics."
+  },
+  {
+    "name": "Cardiology & Prevention",
+    "icon": "♡",
+    "detail": "Heart health clinics, follow-up and outcomes dashboards."
+  },
+  {
+    "name": "Primary & Specialty Clinics",
+    "icon": "◉",
+    "detail": "Outpatient office scheduling and operational capacity."
+  },
+  {
+    "name": "Pharmaceutical Research",
+    "icon": "⚗",
+    "detail": "Synthetic trial portfolios and research operations."
+  }
+]

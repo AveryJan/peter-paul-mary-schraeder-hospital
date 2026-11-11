@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PPMS-001",
+    "title": "CARDIO-SYN: Digital Heart Health Monitoring",
+    "phase": "Phase III (simulated)",
+    "area": "Cardiology",
+    "enrolled": 180,
+    "target": 240,
+    "status": "Synthetic in progress"
+  },
+  {
+    "id": "PPMS-002",
+    "title": "RESPIRA-SYN: Respiratory Outcomes",
+    "phase": "Phase II (simulated)",
+    "area": "Pulmonology",
+    "enrolled": 84,
+    "target": 120,
+    "status": "Synthetic in progress"
+  },
+  {
+    "id": "PPMS-003",
+    "title": "METABOLIC-SYN: Medication Adherence",
+    "phase": "Observational (simulated)",
+    "area": "Pharmacy",
+    "enrolled": 310,
+    "target": 400,
+    "status": "Synthetic in progress"
+  },
+  {
+    "id": "PPMS-004",
+    "title": "ONCO-SYN: Supportive Care Outcomes",
+    "phase": "Phase I (simulated)",
+    "area": "Oncology",
+    "enrolled": 24,
+    "target": 40,
+    "status": "Synthetic planning"
+  }
+]
